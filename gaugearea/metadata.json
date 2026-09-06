@@ -1,6 +1,0 @@
-{
-  "name": "GaugeArea",
-  "description": "Industrial workshop tool for motor rewinding technicians to calculate equivalent multi-wire parallel SWG combinations matching cross-sectional copper area.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
